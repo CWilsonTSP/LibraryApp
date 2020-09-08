@@ -1,0 +1,41 @@
+{
+    "MyLibrary": {
+        "books": [
+            {
+                "title": "The Crucifixion",
+                "subtitle": "Understanding the Death of Jesus Christ",
+                "author": "Flemming Rutledge",
+                "read": false,
+                "tags": [
+                    "crucifixion", "Jesus", "themes", "Biblical Themes"
+                ],
+                "added": "14-8-2020"
+            },
+            {
+                "title": "Justice and Charity",
+                "author": "Fulton J. Sheen",
+                "read": true,
+                "tags": [
+                    "justice", "charity", "economics", "communism", "capitalism"
+                ],
+                "added": "14-8-2020"
+            }
+        ]
+    },
+    "Wishlist": {
+         "books": [
+            {
+                "title": "Infiltration",
+                "subtitle": "The Plot to Destroy the Church from Within",
+                "author": "Taylor Marshall",
+                "read": false,
+                "tags": [
+                    "Vatican II", "infiltration", "change", "modernism"
+                ],
+                "added": "14-8-2020"
+            }
+        ]
+    }
+}
+
+

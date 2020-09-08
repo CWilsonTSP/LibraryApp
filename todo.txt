@@ -1,0 +1,42 @@
+TODO:
+how to store database? json? sql?
+
+    Features:
+        Database
+            title
+            subtitle
+            author
+            read
+            tags
+            date added
+        Wishlist database
+            Same as database
+        manual add
+            Input fields
+                Available for both wishlist and database
+                title
+                subtitle -- optional
+                author
+                read -- optional
+                tags -- optional
+        Scan to add
+            Available for both wishlist and database
+        Multiple databases (libraries?)
+            Input fields
+                name
+        Settings page:
+            User account
+                Log in
+                create account
+                database
+                    username
+                    password
+                    email
+                    databases (json?)
+                delete account
+            Color scheme
+                dyanamically switched
+                light and dark
+            import data
+            export data
+            delete data
